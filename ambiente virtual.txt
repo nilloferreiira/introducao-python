@@ -1,0 +1,8 @@
+criar ambiente virtual
+- python -m venv venv -
+python -m venv(virtual envrionament) venv(nome do ambiente)
+
+ativar o ambiente - venv/Scripts/Activate .ps1 ou .bat-
+
+caso o de erro(habilitar powershell pra usar scripts):
+- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -
